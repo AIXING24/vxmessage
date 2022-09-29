@@ -1,0 +1,35 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx05bbd61343b365dd"
+
+#公众号appSecret
+"app_secret": "bfb87d9e689116e3fe969194eacc00aa",
+
+#模板消息id
+"template_id": "-5Ft1kUGB8WOd5HopzHln5gcIBXtjXPihu-Pd08mNh4",
+
+#接收公众号消息的微信号
+#例如 "user": [" 1 ", " 2 ", " 3 " ]
+"user": ["oFcBv58c820WvcFcO7FCeyN_TPE4"],
+
+#信息配置
+#和风天气apikey
+"weather_key": "fortest",
+#所在地区
+"region": "都匀市"
+#生日1
+"birthday1": {"name": "小豌豆","birthday": "2000-06-21"},
+#生日2
+#"birthday1": {"name": "矮星","birthday": "2000-01-24"},
+#在一起的日子
+"love_date": "2020-02-17",
+#金句中文
+"note_ch": "",
+#金句英文
+"note_en": "",
+
+#考研
+"examday": {"name": "考研", "eday": "2022-12-25"}
+
+}
